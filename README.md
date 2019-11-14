@@ -1,4 +1,4 @@
-# world_weather_analysis_MariaCalderon
+# World weather analysis
 
 ## Background
 
